@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nroe413
+- Hi!
 
 <!---
 nroe413/nroe413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
